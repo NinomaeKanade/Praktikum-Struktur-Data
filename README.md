@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# About
+# Biodata Mahasiswa
 * Nama: Rafli Arianto
 * NIM: 23343051
 * Prodi: Informatika (NK)  
