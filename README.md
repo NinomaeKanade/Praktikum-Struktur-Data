@@ -25,3 +25,4 @@
 - [**Job Sheet 10 - Shell and Quick Sort**](https://github.com/NinomaeKanade/Praktikum-Struktur-Data/tree/main/Job%20Sheet%2010)  
 - [**Job Sheet 11 - Linear and Binary Sort**](https://github.com/NinomaeKanade/Praktikum-Struktur-Data/tree/main/Job%20Sheet%2011)  
 - [**Job Sheet 12 - Tree**](https://github.com/NinomaeKanade/Praktikum-Struktur-Data/tree/main/Job%20Sheet%2012)  
+- [**Job Sheet 13 - Graphs**](https://github.com/NinomaeKanade/Praktikum-Struktur-Data/tree/main/Job%20Sheet%2013)  
